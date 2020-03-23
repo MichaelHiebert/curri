@@ -1,0 +1,8 @@
+name: curri
+
+dependencies:
+  - pip
+  - python>=3.8
+  - pip:
+    - pylatex
+    - pdflatex
